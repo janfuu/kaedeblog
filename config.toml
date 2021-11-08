@@ -77,8 +77,8 @@ hasCJKLanguage = true
   # collapsibleTags = true
   # collapseBySummary = true
 
-  # [params.advanced]
-  #   customCSS = ["css/custom.css"]
+  [params.advanced]
+    customCSS = ["css/custom.css"]
   #   customJSBefore = []
   #   customJS = []
 
