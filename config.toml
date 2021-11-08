@@ -1,9 +1,9 @@
 baseurl = "https://kaedesblog.netlify.app"
-languageCode = "zn"
-defaultContentLanguage = "zn"
+languageCode = "zh-Hans"
+defaultContentLanguage = "zh"
 title = "Kaedes Blog"
 theme = "hugo-theme-dream"
-
+hasCJKLanguage = true
 # copyright = ""
 
 # googleAnalytics = ""
@@ -14,7 +14,7 @@ theme = "hugo-theme-dream"
 
 [params]
   background = "#f7f7f7"
-  # backgroundImage = "/me/background.jpg"
+  backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"
 
   # dark mode
