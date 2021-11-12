@@ -1,5 +1,5 @@
 baseurl = "https://kaedesblog.netlify.app"
-languageCode = "zh-Hans"
+languageCode = "zh-TW"
 defaultContentLanguage = "zh"
 title = "Kaedes Blog"
 theme = "hugo-theme-dream"
